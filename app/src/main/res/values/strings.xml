@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ExemploSimplesDeCompose</string>
+    <string name="vamos_calcular">Vamos Calcular?</string>
+    <string name="alcool_vantajoso">Álcool é mais vantajoso!\nRelação Álcool/Gasolina: %.2f</string>
+    <string name="galosina_vantajosa">Gasolina é mais vantajosa!\nRelação Álcool/Gasolina: %.2f</string>
+    <string name="insira_valores">Por favor, insira valores válidos para os preços.</string>
+    <string name="erro_calcular">Erro ao calcular. Verifique os valores.</string>
+    <string name="rend_75">Rendimento de 75%</string>
+    <string name="calcular">Calcular</string>
+    <string name="adicionar_posto">Adicionar Posto</string>
+    <string name="editar_posto">Editar Posto</string>
+    <string name="nome_posto">Nome do Posto</string>
+    <string name="preco_alcool">Preço do Álcool (R$)</string>
+    <string name="preco_gasolina">Preço da Gasolina (R$)</string>
+    <string name="salvar_posto">Salvar Posto</string>
+    <string name="alcool">Álcool: R$ %.2f</string>
+    <string name="gasolina">Gasolina: R$ %.2f</string>
+    <string name="titulo">Postos de Combustível</string>
 </resources>

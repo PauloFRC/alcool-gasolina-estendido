@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example</string>
+    <string name="vamos_calcular">Lets Compute?</string>
+    <string name="alcool_vantajoso">Alcohol is better!\nRatio Alcohol/Gas: %.2f</string>
+    <string name="galosina_vantajosa">Gas is better!\nRatio Alcohol/Gas: %.2f</string>
+    <string name="insira_valores">Please, insert correct values.</string>
+    <string name="erro_calcular">Error to compute. Check the values.</string>
+    <string name="rend_75">75% Efficiency</string>
+    <string name="calcular">Compute</string>
+    <string name="adicionar_posto">Add Station</string>
+    <string name="editar_posto">Edit Station</string>
+    <string name="nome_posto">Station Name</string>
+    <string name="preco_alcool">Alcohol Price ($)</string>
+    <string name="preco_gasolina">Gas Price ($)</string>
+    <string name="salvar_posto">Save Gas Station</string>
+    <string name="alcool">Alcohol: $ %.2f</string>
+    <string name="gasolina">Gas: $ %.2f</string>
+    <string name="titulo">Gas Stations</string>
+</resources>
